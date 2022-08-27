@@ -3,4 +3,4 @@
 
 * The base project is built in full-stack Django(4.1) and is thought to have a ReactJS client in the future
 * It will implement many features such as websocket, chat protocols, WebRTC, and firebase integration(messaging and notifications and many more)
-* The project is powered by a postgreSQL backend(`The world's most Advanced Relational DBMS)
+* The project is powered by a postgreSQL backend(`The world's most Advanced Relational DBMS`)
