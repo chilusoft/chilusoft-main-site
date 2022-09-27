@@ -3,3 +3,7 @@ Pipfile.lock
 */__pycache__*
 *.pyc
 *.sqlite3
+
+*/node_modules/
+*.env
+djangovenv/

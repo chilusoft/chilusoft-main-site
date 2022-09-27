@@ -18,5 +18,7 @@ from django.urls import include, path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('index.urls'))
+    path('', include('index.urls')),
+    path('djrichtextfield/', include('djrichtextfield.urls'))
+
 ]
